@@ -7,3 +7,6 @@ The most time consuming part was feature extraction to analyze which features we
 I used dummy variables for the textual data, but make sure you keep in mind about the "dummy variable trap".
 
 I used GridSearchCV to train the model using various algorithms to obtain the best results.
+
+## I do not own this dataset. All rights on the dataset go to INSAID.co
+## Make sure you give credit and reference to the author in case you use it
